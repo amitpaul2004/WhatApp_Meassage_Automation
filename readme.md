@@ -14,7 +14,8 @@ Below is a demonstration of the script automatically typing and sending
 
 > The script types the message, presses Enter, waits for 2 seconds, and repeats the process.
 
-![Demo Screenshot](demo.png)
+<img width="559" height="525" alt="image" src="https://github.com/user-attachments/assets/c48be101-9d77-4263-9346-845429e9adb9" />
+
 
 ---
 
