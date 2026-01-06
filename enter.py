@@ -8,6 +8,6 @@ time.sleep(5)
 repeat = 100
 
 for i in range(repeat):
-    pyautogui.typewrite("Hii ")
+    pyautogui.typewrite("Sorry")
     pyautogui.press("enter")
     time.sleep(2)
